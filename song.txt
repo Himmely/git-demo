@@ -1,2 +1,4 @@
 sword and spear
 wall of shields
+line 3 of the song
+line 4 of the song
